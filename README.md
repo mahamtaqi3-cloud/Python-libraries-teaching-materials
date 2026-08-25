@@ -1,6 +1,6 @@
 # Python Libraries for Data Analysis
 
-A collection of hands-on Colab notebooks covering essential Python libraries for **data analysis, visualization, and web scraping**. Built as companion practice material to the [6-Week Python Course https://github.com/mahamtaqi3-cloud/Python-for-Absolute-Beginners-Session](../) — useful on its own as a quick-reference/practice repo for these libraries.
+A collection of hands-on Colab notebooks covering essential Python libraries for **data analysis, visualization, and web scraping**. Built as companion practice material to the 6 week python course [https://github.com/mahamtaqi3-cloud/Python-for-Absolute-Beginners-Session](../) — useful on its own as a quick-reference/practice repo for these libraries.
 
 ## Libraries covered
 
