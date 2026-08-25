@@ -1,4 +1,4 @@
-# Python Libraries — Practice Notebooks
+# Python Libraries for Data Analysis
 
 A collection of hands-on Colab notebooks covering essential Python libraries for **data analysis, visualization, and web scraping**. Built as companion practice material to the [6-Week Python Course](../) — useful on its own as a quick-reference/practice repo for these libraries.
 
